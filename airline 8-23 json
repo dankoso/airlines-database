@@ -1,0 +1,238 @@
+database = {
+    'ASIAN ONE AIR' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["GT","GTA"],
+        'Callsign' : 'GTA',
+        'hub_airport' : ["Halim Perdanakusuma International Airport"],
+        'type_of_plane': ['type1', 'type2'],
+        'fleet_size' : '4',
+        'fleet' : ["Cessna 208B", "Cessna 208B EX"]
+        'type_of_airline': 'Chartered',
+    },
+   'My Indo Airlines' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["2Y","MYU"],
+        'Callsign' : 'MYINDO',
+        'hub_airport' : ["Halim Perdanakusuma International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '4',
+        'fleet' : ["Boeing 737-200", "Boeing 737-300", "Boeing 737-400"],
+        'type_of_airline': 'Chartered',
+    },
+    'Tri-MG Intra Asia Airlines' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["GY","TMG"],
+        'Callsign' : 'TRILINES',
+        'hub_airport' : ["Soekarno-Hatta International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size': '9',
+        'fleet' : ["Boeing 737-300"],
+        'type_of_airline': 'Chartered',
+    },
+    'Republic Express Airlines' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["RH","RPH"],
+        'Callsign' : 'PUBLIC EXPRESS',
+        'hub_airport' : ["Soekarno-Hatta International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size': '3',
+        'fleet' : ["Boeing 737-200C", "Boeing 777", "ATR 72-600", "Falcon 2000 lx"]
+        'type_of_airline': 'Chartered',
+    },
+    'Cardig Air' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["8F","CAD"],
+        'Callsign' : 'CARDIG AIR',
+        'hub_airport' : ["Soekarno-Hatta International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '1',
+        'fleet' : ["Boeing 737-300"]
+        'type_of_airline': 'Chartered',
+    },
+    'Travira Air' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["TR","TVV"],
+        'Callsign' : 'PARAMITA',
+        'hub_airport' : ["Halim Perdanakusuma International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '6',
+        'fleet' : ["ATR 42", "ATR 72"]
+        'type_of_airline': 'Chartered',
+    },
+    ' Premiair' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["","ETA"],
+        'Callsign' : 'Express Transportasi',
+        'hub_airport' : ["Halim Perdanakusuma International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '5',
+        'fleet' : ["Embraer ERJ-135", "Embraer ERJ-190"],
+        'type_of_airline': 'Chartered',
+    },
+    'Pelita Air' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["6D","PAS"],
+        'Callsign' : 'PELITA',
+        'hub_airport' : ["Halim Perdanakusuma International Airport", "Pondok Cabe Airport  (PCB; WIHP)"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '5',
+        'fleet' : ["ATR 42", "ATR 72", "British Aerospace Avro RJ85"],
+        'type_of_airline': 'Chartered',
+    },
+    'Indonesia Air Transport' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["I8","IDA"],
+        'Callsign' : 'INTRA',
+        'hub_airport' : ["Halim Perdanakusuma International Airport", "Husein Sastranegara International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '4',
+        'fleet' : ["ATR 42", "Beech 1900D", "Embraer 135"],
+        'type_of_airline': 'Chartered',
+    },
+    'EastIndo' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["","ESD"],
+        'Callsign' : 'EASTINDO',
+        'hub_airport' : ["Halim Perdanakusuma International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '6',
+        'fleet' : ["Beechcraft B1900D", "Britten-Norman Islander", "Airbus Helicopter AS350"],
+        'type_of_airline': 'Chartered',
+    },
+    'Airfast Indonesia' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["FS","AFE"],
+        'Callsign' : 'AIRFAST',
+        'hub_airport' : ["Soekarno-Hatta International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '5',
+        'fleet' : ["Bae 146", "McDonnell MD-82", "McDonnell MD-83"],
+        'type_of_airline': 'Chartered',
+    },
+    'Wings Air' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["IW","WON"],
+        'Callsign' : 'WINGS ABADI',
+        'hub_airport' : ["Soekarno-Hatta International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '66',
+        'fleet' : ["ATR 72"],
+        'type_of_airline': 'Scheduled',
+    },
+    'Trigana Air Service' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["IL","TGN"],
+        'Callsign' : 'TRIGANA',
+        'hub_airport' : ["Soekarno-Hatta International Airport", "Halim Perdanakusuma International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '16',
+        'fleet' : ["ATR 42", "ATR 72", "Boeing 737-300"],
+        'type_of_airline': 'Scheduled',
+    },
+    'TransNusa' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["8B","TNU"],
+        'Callsign' : 'TRANSNUSA',
+        'hub_airport' : ["Kupang El Tari Airport (KOE; WRKK)"]
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '6',
+        'fleet' : ["Bae 146-200", "Fokker 50"],
+        'type_of_airline': 'Scheduled',
+    },
+    'Susi Air' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["SI","SQS"],
+        'Callsign' : 'SKY QUEEN',
+        'hub_airport' : ["Halim Perdanakusuma International Airport", "Cijulang Nasawiru Airport", "Kualanamu International Airport", "Juwata International Airport", "El Tari Aiport", "Frans Kaisiepo International Airport", "Mopah International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '49',
+        'fleet' : ["Piaggio P180 Avanti II, Cessna 208B Grand Caravan", "Pilatus PC-6 Porter", "LET-410 UVP-E20", "Air Tractor AT-802", "Piper PA-28-181 Archer II", "AgustaWestland Koala AW119Ke", "AgustaWestland Grand AW109S"],
+        'type_of_airline': 'Scheduled',
+    },
+    'Super Air Jet' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["IU","SJV"],
+        'Callsign' : 'PROSPER',
+        'hub_airport' : ["Soekarno-Hatta International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '5',
+        'fleet' : ["Airbus A320-200"],
+        'type_of_airline': 'Scheduled',  
+    },
+    'Sriwijaya Air' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["SJ","SJY"],
+        'Callsign' : 'SRIWIJAYA',
+        'hub_airport' : ["Soekarno-Hatta International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '16',
+        'fleet' : ["Boeing 737-500", "Boeing 737-800", "Boeing 737-900ER"],
+        'type_of_airline': 'Scheduled',
+    },
+    'Derazona Air Service' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["","DRZ"],
+        'Callsign' : 'DERAZONA',
+        'hub_airport' : ["Halim Perdanakusuma International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '2',
+        'fleet' : 
+        'type_of_airline': 'Chartered',
+    },
+    'Derazona Air Service' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["","DRY"],
+        'Callsign' : 'DERAYA',
+        'hub_airport' : ["Husein Sastranegara International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '10',
+        'fleet' : ["AS350 B3E (H1250)", "BELL 412SP"],
+        'type_of_airline': 'Chartered',
+    },
+    'Gatari Air Service' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["","GHS"],
+        'Callsign' : 'GATARI',
+        'hub_airport' : ["Halim Perdanakusum International Airport", "Sultan Aji Muhammad Sulaiman International Airport", "Wamena Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '1',
+        'fleet' : ["ATR 42-500"]
+        'type_of_airline': 'Chartered',
+    },
+    'Transwisata Prima' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["","TWT"],
+        'Callsign' : 'TRANSWISATA',
+        'hub_airport' : ["Halim Perdanakusuma International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '4',
+        'fleet' : 
+        'type_of_airline': 'Chartered',
+    },
+    'EASTINDO SERVICES' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["","ESD"],
+        'Callsign' : 'EASTINDO',
+        'hub_airport' : ["Halim Perdanakusuma Airport"],
+        'type_of_plane': ['type3', 'type4'],2
+        'fleet_size' : '6',
+        'type_of_airline': 'Chartered',
+    },
+    'D' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["",""],
+        'Callsign' : '',
+        'hub_airport' : ["Husein Sastranegara International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '',
+        'type_of_airline': 'Chartered',
+    },
+    'D' : {
+        #Codes are for airlines, with IATA and ICAO code respectively
+        'Codes': ["",""],
+        'Callsign' : '',
+        'hub_airport' : ["Husein Sastranegara International Airport"],
+        'type_of_plane': ['type3', 'type4'],
+        'fleet_size' : '',
+        'type_of_airline': 'Chartered',
+    },
