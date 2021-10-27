@@ -1,0 +1,525 @@
+{
+    "Aviastar": {
+        "Codes": [
+            "MV",
+            "VIT"
+        ],
+        "Callsign": "AVIASTAR",
+        "hub_airport": [
+            "Syamsudin Noor Airport"
+        ],
+        "fleet_size": "4",
+        "type_of_plane": [
+            "DHC-6-300"
+        ],
+        "type_of_airline": "Scheduled"
+    },
+    "Batik Air": {
+        "Codes": [
+            "ID",
+            "BTK"
+        ],
+        "Callsign": "BATIK",
+        "hub_airport": [
+            "Soekarno-Hatta International Airport",
+            "Sam Ratulangi International Airport"
+        ],
+        "fleet_size": "60",
+        "type_of_plane": [
+            "Airbus A320-200",
+            "Airbus A320neo",
+            "Airbus A330-300",
+            "Boeing 737-800",
+            "Boeing 737-900ER"
+        ],
+        "type_of_airline": "Scheduled"
+    },
+    "Citilink": {
+        "Codes": [
+            "QG",
+            "CTV"
+        ],
+        "Callsign": "SUPERGREEN",
+        "hub_airport": [
+            "Juanda International Airport"
+        ],
+        "fleet_size": "62",
+        "type_of_plane": [
+            "ATR 72",
+            "Airbus A320-200",
+            "Airbus A320neo",
+            "Airbus A330-900",
+            "Boeing 737-500"
+        ],
+        "type_of_airline": "Scheduled"
+    },
+    "Garuda Indonesia": {
+        "Codes": [
+            "GA",
+            "GIA"
+        ],
+        "Callsign": "INDONESIA",
+        "hub_airport": [
+            "Soekarno-Hatta International Airport",
+            "Ngurah Rai Airport",
+            "Kualanamu International Airport",
+            "Sultan Hasanuddin International Airport",
+            "Juanda International Airport"
+        ],
+        "fleet_size": "123",
+        "type_of_plane": [
+            "Airbus A330 Neo",
+            "Airbus A330-200",
+            "Airbus A330-300",
+            "ATR 72",
+            "Boeing 737-800",
+            "Boeing 737-MAX 8",
+            "Boeing 777-300",
+            "CRJ 1000"
+        ],
+        "type_of_airline": "Scheduled"
+    },
+    "Indonesia AirAsia": {
+        "Codes": [
+            "QZ",
+            "AWQ"
+        ],
+        "Callsign": "WAGON AIR",
+        "hub_airport": [
+            "Soekarno-Hatta International Airport",
+            "Ngurah Rai Airport",
+            "Husein Sastranegara International Airport"
+        ],
+        "fleet_size": "25",
+        "type_of_plane": [
+            "Airbus A320-200"
+        ],
+        "type_of_airline": "Scheduled"
+    },
+    "Lion Air": {
+        "Codes": [
+            "JT",
+            "LNI"
+        ],
+        "Callsign": "LION INTER",
+        "hub_airport": [
+            "Soekarno-Hatta International Airport"
+        ],
+        "fleet_size": "121",
+        "type_of_plane": [
+            "Airbus A330-300",
+            "Airbus A330-900",
+            "Boeing 737-800",
+            "Boeing 737-900ER",
+            "Boeing 737 MAX 8"
+        ],
+        "type_of_airline": "Scheduled"
+    },
+    "NAM Air": {
+        "Codes": [
+            "IN",
+            "LKN"
+        ],
+        "Callsign": "NAMAIR",
+        "hub_airport": [
+            "Soekarno-Hatta International Airport",
+            "Juanda International Airport",
+            "Supadio International Airport"
+        ],
+        "fleet_size": "16",
+        "type_of_plane": [
+            "ATR 72",
+            "Boeing 737-500"
+        ],
+        "type_of_airline": "Scheduled"
+    },
+    "Sriwijaya Air": {
+        "Codes": [
+            "SJ",
+            "SJY"
+        ],
+        "Callsign": "SRIWIJAYA",
+        "hub_airport": [
+            "Soekarno-Hatta International Airport"
+        ],
+        "fleet_size": "16",
+        "type_of_plane": [
+            "Boeing 737-500",
+            "Boeing 737-800",
+            "Boeing 737-900ER"
+        ],
+        "type_of_airline": "Scheduled"
+    },
+    "Celebes Air": {
+        "Codes": [
+            "",
+            ""
+        ],
+        "Callsign": "",
+        "hub_airport": [
+            "Sultan Hasannudin International Airport"
+        ],
+        "fleet_size": "2",
+        "type_of_plane": [
+            "PAL-750 Turboprop"
+        ],
+        "type_of_airline": "Scheduled"
+    },
+    "Air Born Indonesia": {
+        "Codes": [
+            "",
+            ""
+        ],
+        "Callsign": "",
+        "hub_airport": [
+            "Sultan Aji Muhammad Sulaiman Sepinggan International Airport"
+        ],
+        "fleet_size": "6",
+        "type_of_plane": [
+            "BO-105CBS",
+            "DHC-6-400",
+            "HB-430"
+        ],
+        "type_of_airline": "Chartered"
+    },
+    "Asian One Air": {
+        "Codes": [
+            "GT",
+            "GTA"
+        ],
+        "Callsign": "GTA",
+        "hub_airport": [
+            "Halim Perdanakusuma International Airport"
+        ],
+        "type_of_plane": [
+            "Cessna 208B",
+            "Cessna 208B EX"
+        ],
+        "fleet_size": "4",
+        "type_of_airline": "Chartered"
+    },
+    "My Indo Airlines": {
+        "Codes": [
+            "2Y",
+            "MYU"
+        ],
+        "Callsign": "MYINDO",
+        "hub_airport": [
+            "Halim Perdanakusuma International Airport"
+        ],
+        "type_of_plane": [
+            "Boeing 737-200",
+            "Boeing 737-300",
+            "Boeing 737-400"
+        ],
+        "fleet_size": "5",
+        "type_of_airline": "Chartered"
+    },
+    "Tri-MG Intra Asia Airlines": {
+        "Codes": [
+            "GY",
+            "TMG"
+        ],
+        "Callsign": "TRILINES",
+        "hub_airport": [
+            "Soekarno-Hatta International Airport"
+        ],
+        "type_of_plane": [
+            "Boeing 737-300"
+        ],
+        "fleet_size": "9",
+        "type_of_airline": "Chartered"
+    },
+    "Republic Express Airlines": {
+        "Codes": [
+            "RH",
+            "RPH"
+        ],
+        "Callsign": "PUBLIC EXPRESS",
+        "hub_airport": [
+            "Soekarno-Hatta International Airport"
+        ],
+        "type_of_plane": [
+            "Boeing 737-200C",
+            "Boeing 777",
+            "ATR 72-600",
+            "Falcon 2000 lx"
+        ],
+        "fleet_size": "3",
+        "type_of_airline": "Chartered"
+    },
+    "Cardig Air": {
+        "Codes": [
+            "8F",
+            "CAD"
+        ],
+        "Callsign": "CARDIG AIR",
+        "hub_airport": [
+            "Soekarno-Hatta International Airport"
+        ],
+        "fleet_size": "1",
+        "type_of_plane": [
+            "Boeing 737-300"
+        ],
+        "type_of_airline": "Chartered"
+    },
+    "Travira Air": {
+        "Codes": [
+            "TR",
+            "TVV"
+        ],
+        "Callsign": "PARAMITA",
+        "hub_airport": [
+            "Halim Perdanakusuma International Airport"
+        ],
+        "fleet_size": "6",
+        "type_of_plane": [
+            "ATR 42",
+            "ATR 72"
+        ],
+        "type_of_airline": "Chartered"
+    },
+    "Premiair": {
+        "Codes": [
+            "",
+            "ETA"
+        ],
+        "Callsign": "Express Transportasi",
+        "hub_airport": [
+            "Halim Perdanakusuma International Airport"
+        ],
+        "type_of_plane": [
+            "Embraer ERJ-135",
+            "Embraer ERJ-190"
+        ],
+        "fleet_size": "5",
+        "type_of_airline": "Chartered"
+    },
+    "Pelita Air": {
+        "Codes": [
+            "6D",
+            "PAS"
+        ],
+        "Callsign": "PELITA",
+        "hub_airport": [
+            "Halim Perdanakusuma International Airport",
+            "Pondok Cabe Airport"
+        ],
+        "fleet_size": "5",
+        "type_of_plane": [
+            "ATR 42",
+            "ATR 72",
+            "British Aerospace Avro RJ85"
+        ],
+        "type_of_airline": "Chartered"
+    },
+    "Indonesia Air Transport": {
+        "Codes": [
+            "I8",
+            "IDA"
+        ],
+        "Callsign": "INTRA",
+        "hub_airport": [
+            "Halim Perdanakusuma International Airport",
+            "Husein Sastranegara International Airport"
+        ],
+        "fleet_size": "4",
+        "type_of_plane": [
+            "ATR 42",
+            "Beech 1900D",
+            "Embraer 135"
+        ],
+        "type_of_airline": "Chartered"
+    },
+    "EastIndo": {
+        "Codes": [
+            "",
+            "ESD"
+        ],
+        "Callsign": "EASTINDO",
+        "hub_airport": [
+            "Halim Perdanakusuma International Airport"
+        ],
+        "fleet_size": "6",
+        "type_of_plane": [
+            "Beechcraft B1900D",
+            "Britten-Norman Islander",
+            "Airbus Helicopter AS350"
+        ],
+        "type_of_airline": "Chartered"
+    },
+    "Airfast Indonesia": {
+        "Codes": [
+            "FS",
+            "AFE"
+        ],
+        "Callsign": "AIRFAST",
+        "hub_airport": [
+            "Soekarno-Hatta International Airport"
+        ],
+        "fleet_size": "5",
+        "type_of_plane": [
+            "Bae 146",
+            "McDonnell MD-82",
+            "McDonnell MD-83"
+        ],
+        "type_of_airline": "Chartered"
+    },
+    "Wings Air": {
+        "Codes": [
+            "IW",
+            "WON"
+        ],
+        "Callsign": "WINGS ABADI",
+        "hub_airport": [
+            "Soekarno-Hatta International Airport"
+        ],
+        "fleet_size": "66",
+        "type_of_plane": [
+            "ATR 72"
+        ],
+        "type_of_airline": "Scheduled"
+    },
+    "Trigana Air Service": {
+        "Codes": [
+            "IL",
+            "TGN"
+        ],
+        "Callsign": "TRIGANA",
+        "hub_airport": [
+            "Soekarno-Hatta International Airport",
+            "Halim Perdanakusuma International Airport"
+        ],
+        "fleet_size": "16",
+        "type_of_plane": [
+            "ATR 42",
+            "ATR 72",
+            "Boeing 737-300"
+        ],
+        "type_of_airline": "Scheduled"
+    },
+    "TransNusa": {
+        "Codes": [
+            "8B",
+            "TNU"
+        ],
+        "Callsign": "TRANSNUSA",
+        "hub_airport": [
+            "Kupang El Tari Airport"
+        ],
+        "fleet_size": "6",
+        "type_of_plane": [
+            "Bae 146-200",
+            "Fokker 50"
+        ],
+        "type_of_airline": "Scheduled"
+    },
+    "Susi Air": {
+        "Codes": [
+            "SI",
+            "SQS"
+        ],
+        "Callsign": "SKY QUEEN",
+        "hub_airport": [
+            "Halim Perdanakusuma International Airport",
+            "Cijulang Nasawiru Airport",
+            "Kualanamu International Airport",
+            "Juwata International Airport",
+            "El Tari Aiport",
+            "Frans Kaisiepo International Airport",
+            "Mopah International Airport"
+        ],
+        "fleet_size": "49",
+        "type_of_plane": [
+            "Piaggio P180 Avanti II, Cessna 208B Grand Caravan",
+            "Pilatus PC-6 Porter",
+            "LET-410 UVP-E20",
+            "Air Tractor AT-802",
+            "Piper PA-28-181 Archer II",
+            "AgustaWestland Koala AW119Ke",
+            "AgustaWestland Grand AW109S"
+        ],
+        "type_of_airline": "Scheduled"
+    },
+    "Super Air Jet": {
+        "Codes": [
+            "IU",
+            "SJV"
+        ],
+        "Callsign": "PROSPER",
+        "hub_airport": [
+            "Soekarno-Hatta International Airport"
+        ],
+        "fleet_size": "5",
+        "type_of_plane": [
+            "Airbus A320-200"
+        ],
+        "type_of_airline": "Scheduled"
+    },
+    "Derazona Air Service": {
+        "Codes": [
+            "",
+            "DRZ"
+        ],
+        "Callsign": "DERAZONA",
+        "hub_airport": [
+            "Halim Perdanakusuma International Airport"
+        ],
+        "fleet_size": "2",
+        "type_of_plane": [
+            "AS350 B3E (H1250)",
+            "BELL 412SP"
+        ],
+        "type_of_airline": "Chartered"
+    },
+    "Deraya Air": {
+        "Codes": [
+            "",
+            "DRY"
+        ],
+        "Callsign": "DERAYA",
+        "hub_airport": [
+            "Halim Perdanakusuma International Airport"
+        ],
+        "fleet_size": "1",
+        "type_of_plane": [
+            "Boeing 737-300"
+        ],
+        "type_of_airline": "Chartered"
+    },
+    "Gatari Air Service": {
+        "Codes": [
+            "",
+            "GHS"
+        ],
+        "Callsign": "GATARI",
+        "hub_airport": [
+            "Halim Perdanakusuma International Airport",
+            "Sultan Aji Muhammad Sulaiman International Airport",
+            "Wamena Airport"
+        ],
+        "fleet_size": "1",
+        "type_of_plane": [
+            "ATR 42-500"
+        ],
+        "type_of_airline": "Chartered"
+    },
+    "Transwisata Prima": {
+        "Codes": [
+            "",
+            "TWT"
+        ],
+        "Callsign": "TRANSWISATA",
+        "hub_airport": [
+            "Halim Perdanakusuma International Airport"
+        ],
+        "type_of_plane": [
+            "Gulfstream IV - SP",
+            "Casa 212 - 200",
+            "King Air 350i",
+            "Bell 412 EP"
+        ],
+        "fleet_size": "4",
+        "type_of_airline": "Chartered"
+    }
+}
