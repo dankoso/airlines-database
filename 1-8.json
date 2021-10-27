@@ -45,7 +45,7 @@
         ],
         "fleet_size": "62",
         "type_of_plane": [
-            "ATR 72, Airbus A320-200, Airbus A320neo, Airbus A330-900, Boeing 737-500"
+            "ATR 72", "Airbus A320-200", "Airbus A320neo", "Airbus A330-900", "Boeing 737-500"
         ],
         "type_of_airline": "Scheduled"
     },
@@ -140,7 +140,7 @@
         ],
         "fleet_size": "16",
         "type_of_plane": [
-            "Boeing 737-500, Boeing 737-800, Boeing 737-900ER"
+            "Boeing 737-500", "Boeing 737-800", "Boeing 737-900ER"
         ],
         "type_of_airline": "Scheduled"
     },
